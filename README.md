@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamar-chehimy
 - 👀 I’m interested in applying Machine learning on neuroscience applications
-- 🌱 I’m currently enrolling in "Machine Learning Engineer Certification Program" and have both bachelor and master's degree in Biomedical Engineering.
+- 🌱 I was enrolled in "Machine Learning Engineer Certification Program" and have both bachelor and master's degree in Biomedical Engineering.
 - 📫 Reach me on: kamar.shehimy@gmail.com
 
 <!---
